@@ -1,0 +1,31 @@
+# Node/React/Next.js stuff (если ты копируешь из общего репо)
+node_modules
+.next
+npm-debug.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# VCS
+.git
+.gitignore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and env
+*.log
+.env
+*.env
+
+# Jupyter or notebooks
+*.ipynb
+
+# Docker metadata
+Dockerfile.*
+docker-compose.*
