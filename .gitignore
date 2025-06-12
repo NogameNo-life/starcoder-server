@@ -1,0 +1,35 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Local env vars
+.env
+*.env
+
+# Flask stuff
+instance/
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode/IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.tar
+docker-compose.override.yml
